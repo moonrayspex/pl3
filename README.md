@@ -4,6 +4,7 @@
 <h2>Step 2 links:</h2>
 <p>AGOL Map with additional layer</p>
 https://fleming.maps.arcgis.com/apps/mapviewer/index.html?webmap=8506d82155da4cbfaada6f3383403d7e
+https://fleming.maps.arcgis.com/home/item.html?id=c2ec4970101c47c68220479f8bea33e1
 <p>Feature Layers</p>
 https://fleming.maps.arcgis.com/home/item.html?id=f7d4458328a842dab16b84a2526bab3c
 https://fleming.maps.arcgis.com/home/item.html?id=64bbc8d883b04ec5a15caf0a98a6ca6a
